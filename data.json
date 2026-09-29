@@ -1,0 +1,38 @@
+[
+  {
+    "id": "1",
+    "title": "Design System Guidelines",
+    "description": "Create harmonious light mode color tokens and typography scale.",
+    "category": "Design",
+    "priority": "High",
+    "status": "Completed",
+    "createdAt": "2026-09-27T16:34:59.641Z"
+  },
+  {
+    "id": "2",
+    "title": "Build Express REST API",
+    "description": "Implement endpoints for items with validation and local persistence.",
+    "category": "Backend",
+    "priority": "High",
+    "status": "Completed",
+    "createdAt": "2026-09-28T16:34:59.643Z"
+  },
+  {
+    "id": "3",
+    "title": "Connect React Frontend",
+    "description": "Synchronize client state with LocalStorage and Node backend.",
+    "category": "Frontend",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "2026-09-29T16:34:59.643Z"
+  },
+  {
+    "id": "4",
+    "title": "Test Offline Storage",
+    "description": "Verify instant CRUD operations and seamless synchronization.",
+    "category": "QA",
+    "priority": "Low",
+    "status": "Pending",
+    "createdAt": "2026-09-29T16:34:59.643Z"
+  }
+]
